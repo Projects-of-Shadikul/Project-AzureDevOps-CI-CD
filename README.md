@@ -1,1 +1,1 @@
-## <p align=left>Dockerize ASP.NET Core Application with MSSQL Server Database<br> <br> </p>
+## <p align=left>CI/CD of ASP.NET Core Application in Azure DevOps<br> <br> </p>
